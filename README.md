@@ -29,4 +29,5 @@ Start up the LED cube and all lights will light in BLUE
     advertisement.complete_name = "Cube"
 but if you change the name, BE SURE that the name is 11 characters or less. As of CircuitPython 6.2, advertisement names larger than 11 characters may cause the device to not appear at all in the Bluefruit app. If the device isn't appearing on your device, close the app, turn Bluetooth off and on on the device, then open the app again. You can also try restarting the accessing device as well as the LED cube.
 
-I'm not a native Python coder, so please share any advice on improving the code. Any enhancements will be posted here & shared with my students. And if you build this, you can tweet a photo of your build with the hashtag #BulitWithProfG and you could win the weekly drawing for a "Make Something Awesoome" laptop sticker featuring "Happy Gear", my channel's mascot:
+I'm not a native Python coder, so please share any advice on improving the code. Any enhancements will be posted here & shared with my students. And if you build this, you can tweet me a photo of your build with the hashtag #BulitWithProfG and you could win the weekly drawing for a "Make Something Awesoome" laptop sticker featuring "Happy Gear", my channel's mascot:
+https://pbs.twimg.com/media/E6nXxPhXMAIPIyK?format=jpg&name=medium
